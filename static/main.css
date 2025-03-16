@@ -97,3 +97,8 @@ button {
 button:hover {
     background-color: #23272b; /* Slightly darker color on hover */
 }
+
+.result {
+    min-height: 25px;
+    display: block;
+}
